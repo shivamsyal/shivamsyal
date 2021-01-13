@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my personal website!
+- 🌱 I’m currently learning algorithm design
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to swim and 'The Office' is my favorite show!
 <!--
 **shivamsyal/shivamsyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
