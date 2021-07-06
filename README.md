@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭  I’m currently working on [my personal website](https://www.shivamsyal.com)!
-- 🌱  I’m currently learning algorithm design
+- 🌱  I’m currently learning data compression
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I love to swim and 'The Office' is my favorite show!
 <!--
