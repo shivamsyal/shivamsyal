@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭  I’m currently working on [my personal website](https://www.shivamsyal.com)!
+- 🔭  I’m currently working on [Rovier](https://www.rovier.com)!
 - 🌱  I’m currently learning data compression
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I love to swim and 'The Office' is my favorite show!
